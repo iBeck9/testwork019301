@@ -3,6 +3,6 @@
 ## Testwork 019301 tasks
 - Use both of Laravel and Vue frameworks
 - Front-end must use Vue (layout, routing, axios and other)
-- Front-end uses Laravel API to transfer data (post/get...: /api/contacts/ ...+id / ...+data)
+- Front-end transfers data to/from Laravel API (post/get...: /api/contacts/ ...+id / ...+data)
 - Back-end classic CRUD API (with models, controllers, resources and routing)
 - Auth kit: Laravel Breeze (also can be used Laravel Passport if needed)
